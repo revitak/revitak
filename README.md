@@ -1,4 +1,5 @@
 ### Hi there 👋
+I specialize in writing code for Autodesk Revit in C#.  Previous to Revit, I did a bunch of coding for Autodesk AutoCAD.  I am an electrical designer and have extensive knowledge about Revit MEP electrical coding and operations.
 
 <!--
 **revitak/revitak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
