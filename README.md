@@ -1,5 +1,6 @@
 ### Hi there 👋
 I specialize in writing code for Autodesk Revit in C#.  Previous to Revit, I did a bunch of coding for Autodesk AutoCAD.  I am an electrical designer and have extensive knowledge about Revit MEP electrical coding and operations.
+At the moment I do not have much of my code here because it is proprietary to the engineering firm that employs me (keep the competition from getting it)!
 
 Feel free to reach out to me if you need help with anything related to Revit (electrical).
 
